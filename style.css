@@ -1,0 +1,17 @@
+#collapse {
+    border-collapse: collapse;
+    font-size: 22px;
+    width: 100%;
+}
+
+#collapse th {
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#collapse td {
+    padding: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
