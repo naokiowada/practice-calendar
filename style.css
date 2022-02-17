@@ -1,4 +1,4 @@
-#collapse {
+/* #collapse {
     border-collapse: collapse;
     font-size: 22px;
     width: 100%;
@@ -14,4 +14,23 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 
+/* } */
+table.collapse {
+    border-collapse: collapse;
+}
+
+#calendar {
+    text-align: center;
+    width: 100%;
+}
+.collapse {
+    border: 1px solid black;
+}
+
+table td {
+    border: 1px solid black;
+}
+
+table th {
+    border: 1px solid black;
 }
